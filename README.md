@@ -95,5 +95,4 @@ Youtube Link: [CS50P Final Project](https://youtu.be/M56x-Lxm9aI)
 
 <div style="text-align: center;"> 
 <p style="font-size: 14px;">"This was CS50" - David J. Malan </p>
-<a style="font-size: 12px;" href='https://github.com/amarjeeettt'> Amarjeet Singh </a>
 </div>
